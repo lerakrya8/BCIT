@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="matrix.Matrix&lt;T&gt;">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAACAAAAAAAAECAAAAAIAAAAAAAAAAAAAATAAAAA=</HashCode>
+      <FileName>matrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3.Program">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="simplelist.SimpleList&lt;T&gt;">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIAAAAAAAAAAFBAAAEQAAQAAAABAAAAAACAAAAAAgA=</HashCode>
+      <FileName>simplelist.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="simplelistitem.SimpleListItem&lt;T&gt;">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAIAAAA=</HashCode>
+      <FileName>simplelistitem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="simplestack.SimpleStack&lt;T&gt;">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>simplestack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="figurematrix.FigureMatrixCheckEmpty">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>figurematrix.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="imatrixcheck.IMatrixCheckEmpty&lt;T&gt;">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>imatrixcheck.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

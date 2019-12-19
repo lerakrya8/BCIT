@@ -1,0 +1,10 @@
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab4a\obj\Debug\lab4a.csprojAssemblyReference.cache
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab4a\obj\Debug\lab4a.Form1.resources
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab4a\obj\Debug\lab4a.Properties.Resources.resources
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab4a\obj\Debug\lab4a.csproj.GenerateResource.cache
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab4a\obj\Debug\lab4a.csproj.CoreCompileInputs.cache
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab4a\bin\Debug\lab4a.exe.config
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab4a\bin\Debug\lab4a.exe
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab4a\bin\Debug\lab4a.pdb
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab4a\obj\Debug\lab4a.exe
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab4a\obj\Debug\lab4a.pdb

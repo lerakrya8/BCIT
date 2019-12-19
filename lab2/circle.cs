@@ -23,6 +23,11 @@ namespace circle
             double result = this.radius * this.radius * Math.PI;
             return result;
         }
+        public override String ToString()
+        {
+            var temp = $"{this.Type} {this.radius} площадью {this.radius * this.radius * Math.PI}";
+            return temp;
+        }
         public void Print()
         {
             Console.WriteLine(this.ToString());

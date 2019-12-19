@@ -1,0 +1,13 @@
+C:\Users\да\Desktop\бкит\Лабораторные работы\ДЗ\obj\Debug\ДЗ.csprojAssemblyReference.cache
+C:\Users\да\Desktop\бкит\Лабораторные работы\ДЗ\obj\Debug\ДЗ.Properties.Resources.resources
+C:\Users\да\Desktop\бкит\Лабораторные работы\ДЗ\obj\Debug\ДЗ.csproj.GenerateResource.cache
+C:\Users\да\Desktop\бкит\Лабораторные работы\ДЗ\obj\Debug\ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\да\Desktop\бкит\Лабораторные работы\ДЗ\bin\Debug\ДЗ.exe.config
+C:\Users\да\Desktop\бкит\Лабораторные работы\ДЗ\bin\Debug\ДЗ.exe
+C:\Users\да\Desktop\бкит\Лабораторные работы\ДЗ\bin\Debug\ДЗ.pdb
+C:\Users\да\Desktop\бкит\Лабораторные работы\ДЗ\obj\Debug\ДЗ.exe
+C:\Users\да\Desktop\бкит\Лабораторные работы\ДЗ\obj\Debug\ДЗ.pdb
+C:\Users\да\Desktop\бкит\Лабораторные работы\ДЗ\obj\Debug\ДЗ.Form1.resources
+C:\Users\да\Desktop\бкит\Лабораторные работы\ДЗ\bin\Debug\lab5'.dll
+C:\Users\да\Desktop\бкит\Лабораторные работы\ДЗ\bin\Debug\lab5'.pdb
+C:\Users\да\Desktop\бкит\Лабораторные работы\ДЗ\obj\Debug\ДЗ.csproj.CopyComplete

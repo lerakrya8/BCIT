@@ -23,6 +23,11 @@ namespace rectangle
             double result = this.width * this.length;
             return result;
         }
+        public override String ToString()
+        {
+            var temp = $"{this.Type} {this.width} {this.length}  площадью {this.width * this.length}";
+            return temp;
+        }
         public void Print()
         {
             Console.WriteLine(this.ToString());

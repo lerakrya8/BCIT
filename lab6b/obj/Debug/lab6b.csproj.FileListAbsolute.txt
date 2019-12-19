@@ -1,0 +1,7 @@
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab6b\obj\Debug\lab6b.csproj.CoreCompileInputs.cache
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab6b\bin\Debug\lab6b.exe.config
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab6b\bin\Debug\lab6b.exe
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab6b\bin\Debug\lab6b.pdb
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab6b\obj\Debug\lab6b.exe
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab6b\obj\Debug\lab6b.pdb
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab6b\obj\Debug\lab6b.csprojAssemblyReference.cache

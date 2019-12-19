@@ -1,0 +1,6 @@
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab6a\bin\Debug\lab6a.exe.config
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab6a\bin\Debug\lab6a.exe
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab6a\bin\Debug\lab6a.pdb
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab6a\obj\Debug\lab6a.csproj.CoreCompileInputs.cache
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab6a\obj\Debug\lab6a.exe
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab6a\obj\Debug\lab6a.pdb

@@ -45,12 +45,16 @@ namespace ConsoleApp4
             {
                 if (b != 0)
                 {
-                    if ((-1) * c / b > 0)
+                    if ((-1) * c / b >= 0)
                     {
                         x1 = Math.Sqrt((-1) * c / b);
                         x2 = (-1) * x1;
                         Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine($"Корни би-квадратного уравнения: x1 = {x1}, x2 = {x2}");
+                        Console.Write("Корни би - квадратного уравнения:" );
+                        if (x1 == x2)
+                            Console.WriteLine($" x = {x1}");
+                        else
+                            Console.WriteLine($" x1 = {x1}, x2 = {x2}");
                     }
                     else
                     {
@@ -76,7 +80,7 @@ namespace ConsoleApp4
             {
                 if (b == 0)
                 {
-                    if ((-1) * c / a > 0)
+                    if ((-1) * c / a >= 0)
                     {
                         x3 = Math.Sqrt((-1) * c / a);
                         x4 = (-1) * x3;
@@ -99,12 +103,15 @@ namespace ConsoleApp4
                         x2 = 0;
                         Console.ForegroundColor = ConsoleColor.Green;
                         Console.Write($"Корни би-квадратного уравнения: x1 = {x1}, x2 = {x2}");
-                        if ((-1) * b / a > 0)
+                        if ((-1) * b / a >= 0)
                         {
                             x3 = Math.Sqrt((-1) * b / a);
                             x4 = (-1) * x3;
                             Console.ForegroundColor = ConsoleColor.Green;
-                            Console.WriteLine($", x3 = {x3}, x4 = {x4}");
+                            if (x3 == x4)
+                                Console.WriteLine($", x = {x3}");
+                            else
+                                Console.WriteLine($", x3 = {x3}, x4 = {x4}");
                         }
                     }
                     else

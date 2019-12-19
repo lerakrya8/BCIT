@@ -1,0 +1,7 @@
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab5a\bin\Debug\lab5a.exe.config
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab5a\bin\Debug\lab5a.exe
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab5a\bin\Debug\lab5a.pdb
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab5a\obj\Debug\lab5a.csprojAssemblyReference.cache
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab5a\obj\Debug\lab5a.csproj.CoreCompileInputs.cache
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab5a\obj\Debug\lab5a.exe
+C:\Users\да\Desktop\бкит\Лабораторные работы\lab5a\obj\Debug\lab5a.pdb
